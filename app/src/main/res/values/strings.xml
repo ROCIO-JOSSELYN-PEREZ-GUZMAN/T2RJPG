@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">T2RJPG</string>
+    <string name="descripcion">logo tesoem</string>
+    <string name="pantallatableta">Estamos en una tableta</string>
+    <string name="bpresiona">Pulsa  aqui !!!</string>
+    <string name="pantallacell">Estas en un celular</string>
+</resources>
